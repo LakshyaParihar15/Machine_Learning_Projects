@@ -62,3 +62,7 @@ Welcome to my collection of machine learning projects! This repository includes 
 - Data Cleaning & Visualization
 
 ---
+
+# 📫 Connect with Me
+💼 LinkedIn: [www.linkedin.com/in/lakshya-parihar](http://www.linkedin.com/in/lakshya-parihar)
+📧 Gmail: lakshyaparihar2003@gmail.com
