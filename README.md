@@ -1,28 +1,64 @@
-Data Science and Machine Learning Projects
+# 🤖 Machine Learning Project Portfolio
 
-Welcome to my repository of data science and machine learning projects! This collection showcases my skills in solving real-world problems using data analysis and machine learning techniques.
+Welcome to my collection of machine learning projects! This repository includes real-world datasets, EDA, model building, and deployment-ready notebooks. Each project demonstrates key skills in data preprocessing, visualization, and applying ML algorithms for predictive modeling and recommendations.
 
-Overview
+---
 
-This repository contains several projects covering a variety of topics in data science and machine learning. Each project is implemented in Python and includes a Jupyter Notebook (.ipynb) where I explore the problem, analyze the data, and build predictive models.
+## 📂 Projects
 
-Requirements
+### 🏠 1. House Price Prediction
+- **Goal**: Predict house prices based on features like location, number of rooms, and area.
+- **Tech**: Linear Regression, Seaborn, Pandas
+- **Highlights**:
+  - Feature engineering
+  - Data preprocessing & visualization
+  - Model evaluation using MAE & RMSE
 
-The projects are developed using Python and require the following libraries:
+📁 File: `House Price Prediction.ipynb`
 
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn (for some projects)
-- Jupyter Notebook
+---
 
-About Me
+### 💳 2. Loan Approval Prediction
+- **Goal**: Classify whether a loan application should be approved based on applicant info.
+- **Tech**: Logistic Regression, Label Encoding, Train/Test split
+- **Highlights**:
+  - Categorical feature encoding
+  - Binary classification with model metrics
+  - Model performance analysis
 
-I am a passionate data scientist with a strong background in machine learning and data analysis. I enjoy solving complex problems and leveraging data-driven insights to create impactful solutions. 
+📁 File: `Loan Approval.ipynb`
 
-- Gmail: lakshyaparihar2003@gmail.com
+---
 
-Contact
+### 📚 3. Amazon Bestselling Books – Data Analysis & Visualization
+- **Goal**: Analyze trends in bestselling books from 2009–2019.
+- **Tech**: Pandas, Matplotlib, Seaborn
+- **Highlights**:
+  - Data wrangling and EDA
+  - Visualizations: Heatmaps, bar plots, trends over time
+  - Genre and author popularity analysis
 
-Feel free to reach out to discuss collaboration opportunities or to learn more about my projects.
+📁 File: `Amazon Bestselling Books Data Analysis and Visualization Using Python.ipynb`
+
+---
+
+### 🎬 4. Movie Recommendation System
+- **Goal**: Recommend movies using user-based collaborative filtering and KNN.
+- **Tech**: Surprise library, KNNBasic, Cosine similarity
+- **Highlights**:
+  - Collaborative filtering on user-item matrices
+  - Similarity calculation and recommendation scoring
+  - Evaluation with RMSE on test data
+
+📁 File: `Movie Recommendation System Using KNN and Collaborative Filtering.ipynb`
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Jupyter Notebooks
+- ML Algorithms: Linear/Logistic Regression, KNN, Collaborative Filtering
+- Data Cleaning & Visualization
+
+---
